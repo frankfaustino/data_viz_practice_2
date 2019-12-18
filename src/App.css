@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+#user-dropdown .ant-dropdown-button {
+  margin: 8px 8px 8px 8px;
+}
